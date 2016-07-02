@@ -66,10 +66,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-3e3JDTKx0Y'
 title: Anti-Kreuzberger Schutzwall
-datePublished: '2016-07-02T22:25:30.148Z'
-dateModified: '2016-07-02T22:25:29.697Z'
+datePublished: '2016-07-02T22:25:54.167Z'
+dateModified: '2016-07-02T22:25:53.748Z'
 sourcePath: _posts/2016-07-02-anti-kreuzberger-schutzwall.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
